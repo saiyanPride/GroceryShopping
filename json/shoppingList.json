@@ -1,0 +1,31 @@
+{
+    "default":[
+        {"name":"Liquid wash:Fairy Lemon Washing Up Liquid 500ml","id":"6974303","quantity":"1"},
+        {"name":"Dishmatic Replacement Heads Non-Scratch x3","id":"7215689","quantity":"1"}
+    ],
+    "fruitAndVegetables":[
+        {"name":"Sainsbury's Baby Leaf Spinach 100g","id":"7176881","quantity":"1"},
+        {"name":"Cucumber","id":"62","quantity":"1"}
+    ],
+    "carbohydrates":[
+        {"name":"Sainsbury's Brown Rice 500g","id":"7642453","quantity":"1"},
+        {"name":"McCain Crinkle Chips","id":"2661780","quantity":"1"}
+    ],
+    "drinks":[
+        {"name":"Almond Breeze Long Life Vanilla Milk Alternative 1L","id":"7761414","quantity":"1"},
+        {"name":"Almond Milk: Blue Diamond Almond Breeze Long Life Original Milk Alternative 1L","id":"7604445","quantity":"1"}
+    ],
+    "condiments":[
+        {"name":"Sainsbury's Garlic Granules 56g ","id":"7775029","quantity":"1"},
+        {"name":"Sainsbury's Onion Granules 58g","id":"7778340","quantity":"3"}
+    ],
+    "snacks":[
+        {"name":"Kettle Chips Crispy Bacon & Maple 150g","id":"7763591","quantity":"1"},
+        {"name":"Tyrrells Popcorn Sweet & Salty 80g","id":"7634353","quantity":"1"}
+    ],
+    "protein":[
+        {"name":"Sainsbury's Sirloin Steak, Taste the Difference 225g","id":"7809846","quantity":"1"},
+        {"name":"Sainsbury's British Chicken Thighs & Drums 660g","id":"7407689","quantity":"1"}
+    ]
+}
+    
